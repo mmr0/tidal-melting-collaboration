@@ -7,5 +7,5 @@ All aspects of the project will be tracked through issues. Create an issue to re
 
 To start contributing to the code, make your own branch directly in this repository, edit away on your branch, and then submit pull requests between your branch and the master branch (or merge directly).
 
-As we figure out the main results and develop the storyline, we can add to the Results Summary here and draft figure list for the paper here.
+As we figure out the main results and develop the storyline, we can add to the [Results Summary](https://github.com/mmr0/tidal-melting-collaboration/tree/main/Results_summmary.md) and draft figure list for the paper here.
 
